@@ -1,0 +1,17 @@
+.simvision
+INCA_libs
+waves.shm
+*.png
+*.log
+*.key
+*.diag
+*.lib
+*.sdf
+*.vs
+*.sdf.X
+*.v~
+*.bat~
+*.lib.v
+*.tcl~
+*.txt~
+*.pdf
